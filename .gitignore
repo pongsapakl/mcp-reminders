@@ -27,4 +27,3 @@ venv/
 ENV/
 env/
 .DS_Store
-uv.lock
